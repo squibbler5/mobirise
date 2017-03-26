@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Squibbler",
-    "currentPage": "recipes.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -144,6 +144,10 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#7e9b9f"
+            },
+            ".mbr-section-lead P": {
+              "color": "#000000",
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-1",
@@ -151,14 +155,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cover-2000x1333.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "contentAlign": "left",
@@ -166,8 +170,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "squibbler.",
-          "text": "homepage",
+          "title": "",
+          "text": "<p><br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
